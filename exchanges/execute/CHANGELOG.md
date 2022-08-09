@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.2.4
+
+### Patch Changes
+
+- ⚠️ fix return for context function argument, by [@JoviDeCroock](https://github.com/JoviDeCroock) (See [#2583](https://github.com/FormidableLabs/urql/pull/2583))
+
 ## 1.2.3
 
 ### Patch Changes
